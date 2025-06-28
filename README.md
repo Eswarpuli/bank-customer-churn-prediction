@@ -12,7 +12,4 @@ This project is a machine learning web application that predicts whether a bank 
 - Reusable `.pkl` model for fast inference
 - Organized project structure with dataset included
 
----
-
-## 📂 Project Structure
 
