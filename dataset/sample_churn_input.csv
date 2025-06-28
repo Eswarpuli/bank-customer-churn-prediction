@@ -1,0 +1,4 @@
+credit_score,country,gender,age,tenure,balance,products_number,credit_card,active_member,estimated_salary
+650,0,1,40,3,60000.0,2,1,1,50000.0
+710,2,0,35,5,35000.0,1,0,0,42000.0
+580,1,1,45,6,80000.0,2,1,1,75000.0
